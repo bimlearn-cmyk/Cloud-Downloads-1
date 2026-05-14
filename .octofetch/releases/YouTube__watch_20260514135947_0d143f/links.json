@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7271",
+  "folder": "YouTube__watch_20260514135947_0d143f",
+  "base_name": "2026-The_license_manager_is_not_functioning_or_is_improperly_installed_Yk23nY06xpE_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/bimlearn-cmyk/Cloud-Downloads-1/releases/tag/co-releases-v1-7271",
+  "files": [
+    {
+      "name": "2026-The_license_manager_is_not_functioning_or_is_improperly_installed_Yk23nY06xpE_1080p.mp4",
+      "url": "https://github.com/bimlearn-cmyk/Cloud-Downloads-1/releases/download/co-releases-v1-7271/2026-The_license_manager_is_not_functioning_or_is_improperly_installed_Yk23nY06xpE_1080p.mp4",
+      "api_url": "https://api.github.com/repos/bimlearn-cmyk/Cloud-Downloads-1/releases/assets/420202490",
+      "id": 420202490,
+      "size": 11120154,
+      "download_count": 0
+    }
+  ]
+}
