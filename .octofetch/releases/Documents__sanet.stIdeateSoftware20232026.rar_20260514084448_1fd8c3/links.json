@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-6700",
+  "folder": "Documents__sanet.stIdeateSoftware20232026.rar_20260514084448_1fd8c3",
+  "base_name": "Documents__sanet.stIdeateSoftware20232026.rar_20260514084448_1fd8c3.html",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/bimlearn-cmyk/Cloud-Downloads-1/releases/tag/co-releases-v1-6700",
+  "files": [
+    {
+      "name": "Documents__sanet.stIdeateSoftware20232026.rar_20260514084448_1fd8c3.html",
+      "url": "https://github.com/bimlearn-cmyk/Cloud-Downloads-1/releases/download/co-releases-v1-6700/Documents__sanet.stIdeateSoftware20232026.rar_20260514084448_1fd8c3.html",
+      "api_url": "https://api.github.com/repos/bimlearn-cmyk/Cloud-Downloads-1/releases/assets/420017719",
+      "id": 420017719,
+      "size": 23171,
+      "download_count": 0
+    }
+  ]
+}
