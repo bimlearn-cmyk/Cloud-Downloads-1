@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7827",
+  "folder": "YouTube__watch_20260519042320_6cc61c",
+  "base_name": "Composite_Brick_Wall_in_Revit_Adaptive_Panel_rNFFKyOlXgs_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/bimlearn-cmyk/Cloud-Downloads-1/releases/tag/co-releases-v1-7827",
+  "files": [
+    {
+      "name": "Composite_Brick_Wall_in_Revit_Adaptive_Panel_rNFFKyOlXgs_1080p.mp4",
+      "url": "https://github.com/bimlearn-cmyk/Cloud-Downloads-1/releases/download/co-releases-v1-7827/Composite_Brick_Wall_in_Revit_Adaptive_Panel_rNFFKyOlXgs_1080p.mp4",
+      "api_url": "https://api.github.com/repos/bimlearn-cmyk/Cloud-Downloads-1/releases/assets/423877156",
+      "id": 423877156,
+      "size": 92555611,
+      "download_count": 0
+    }
+  ]
+}
